@@ -1,4 +1,4 @@
-![Design preview for the Blogr landing page coding challenge](https://i.imgur.com/LAuBDBf.gifv)
+![Design preview for the Blogr landing page coding challenge](https://imgur.com/LAuBDBf)
 
 
 # description
