@@ -1,4 +1,4 @@
-[Design preview for the Blogr landing page coding challenge](./banner-github.gif)
+![Design preview for the Blogr landing page coding challenge](./banner-github.gif)
 
 
 # Sobre mi
