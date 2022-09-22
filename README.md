@@ -1,4 +1,4 @@
-![banner-perfil](./banner-github.gif)
+![banner-perfil](./banner-github-1.gif)
 
 
 # Sobre mi
