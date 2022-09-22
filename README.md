@@ -1,4 +1,4 @@
-[![Design preview for the Blogr landing page coding challenge](./banner-github.gif)](https://github.com/facundoangel#user-77032020-pinned-items-reorder-form)
+[Design preview for the Blogr landing page coding challenge](./banner-github.gif)
 
 
 # Sobre mi
